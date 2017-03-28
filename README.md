@@ -1,2 +1,2 @@
 # hello-world
-Firts github
+First Github
